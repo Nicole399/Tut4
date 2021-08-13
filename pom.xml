@@ -15,7 +15,7 @@
 	
 <dependencies>
     <dependency>
-      <groupId>junit.jupiter</groupId>
+      <groupId>org.junit.jupiter</groupId>
       <artifactId>junit-jupiter-engine</artifactId>
       <version>5.5.2</version>
     
@@ -23,8 +23,7 @@
   </dependencies>
 
  <build>
-    <sourceDirectory>src/main/java/Tut4pkg</sourceDirectory>
-    <testSourceDirectory>src/test/java/Tut4pkg</testSourceDirectory>
+    
     <plugins>
       <plugin>
 	<artifactId>maven-compiler-plugin</artifactId>
