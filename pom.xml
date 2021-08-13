@@ -23,8 +23,8 @@
   </dependencies>
 
  <build>
-    <sourceDirectory>src/main/java</sourceDirectory>
-    <testSourceDirectory>src/test/java</testSourceDirectory>
+    <sourceDirectory>src/main/java/Tut4pkg</sourceDirectory>
+    <testSourceDirectory>src/test/java/Tut4pkg</testSourceDirectory>
     <plugins>
       <plugin>
 	<artifactId>maven-compiler-plugin</artifactId>
