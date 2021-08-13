@@ -3,7 +3,7 @@
   <modelVersion>4.0.0</modelVersion>
   <groupId>nz.ac.massey.cs.251</groupId>
   <artifactId>tutorial4</artifactId>
-  <packaging>Tut4pgk/jar</packaging>
+  <packaging>jar</packaging>
   <version>1.0-SNAPSHOT</version>
   <name>tutorial4</name>
   <url>http://maven.apache.org</url>
@@ -15,7 +15,7 @@
 	
 <dependencies>
     <dependency>
-      <groupId>org.junit.jupiter</groupId>
+      <groupId>junit.jupiter</groupId>
       <artifactId>junit-jupiter-engine</artifactId>
       <version>5.5.2</version>
     
