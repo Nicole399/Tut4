@@ -13,6 +13,10 @@ public class TestCalc {
 	public void test() throws IOException  {
 			assertTrue(Calc.add(2, 2) == 4);
 		}
+	@Test
+	public void test2() throws IOException  {
+			assertTrue(Calc.subtract(2, 2) == 0);
+		}
 	
 
 }
