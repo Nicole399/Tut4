@@ -3,10 +3,10 @@ package Tut4pkg;
 import junit.framework.Test;
 import junit.framework.TestCase;
 import junit.framework.TestSuite;
-import static org.junit.Assert.*;
-import static org.junit.jupiter.api.Assertions.assertEquals;
+//import static org.junit.Assert.*;
+//import static org.junit.jupiter.api.Assertions.assertEquals;
 
-import static org.junit.jupiter.api.Assertions.assertTrue;
+//import static org.junit.jupiter.api.Assertions.assertTrue;
 
 
 
