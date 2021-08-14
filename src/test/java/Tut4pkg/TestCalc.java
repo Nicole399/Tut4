@@ -1,4 +1,4 @@
-package tut4;
+package Tut4pkg;
 
 import static org.junit.Assert.*;
 //import static org.junit.jupiter.api.Assertions.assertTrue;
